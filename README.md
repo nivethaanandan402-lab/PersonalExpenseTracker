@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-A simple, robust, console and desktop GUI-based application built in **100% Core Java (JDK 17+)** as a college mini-project for **Software Engineering** and an **Object-Oriented Programming (OOP) Lab Record**.
+A simple, robust, console and desktop GUI-based application built in **100% Core Java (JDK 17+)** as a college mini-project for **Software Engineering**.
 
 The project uses only standard Java libraries (`java.util`, `java.io`, `java.time`, `javax.swing`, `java.awt`) with **zero external dependencies, build tools, or frameworks**. It features persistent plain text / CSV file storage in a `data/` folder, clean separation of concerns, and clear demonstration of core OOP concepts suitable for viva defense.
 
