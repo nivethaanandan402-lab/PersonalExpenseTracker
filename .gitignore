@@ -1,0 +1,18 @@
+# Compiled Class Files
+bin/
+*.class
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS temporary files
+Thumbs.db
+.DS_Store
+
+# Temporary console input/test files
+console_test_input.txt

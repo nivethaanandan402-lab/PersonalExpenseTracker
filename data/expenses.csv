@@ -11,3 +11,5 @@ id,username,title,amount,category,date,paymentMethod,description
 10,alice_smith,Organic Groceries,2200.00,Food,2026-11-10,Debit Card,Weekly fruits and vegetables
 12,testuser_9065,Cafeteria Lunch,120.00,Food,2026-11-19,Cash,None
 13,testuser_9065,Bus Ticket,50.00,Transportation,2026-11-18,Cash,None
+15,testuser_7191,Cafeteria Lunch,120.00,Food,2026-11-19,Cash,None
+16,testuser_7191,Bus Ticket,50.00,Transportation,2026-11-18,Cash,None
