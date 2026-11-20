@@ -1,0 +1,13 @@
+id,username,title,amount,category,date,paymentMethod,description
+1,john_doe,Supermarket Groceries,3450.00,Food,2026-11-02,UPI,Monthly grocery purchase
+2,john_doe,Metro Card Recharge,1200.00,Transportation,2026-11-03,Debit Card,Monthly subway pass
+3,john_doe,Java Programming Book,850.00,Education,2026-11-05,Net Banking,Core Java Reference Guide
+4,john_doe,Winter Jacket,2999.00,Shopping,2026-11-08,Credit Card,Discount sale
+5,john_doe,Weekend Cinema,650.00,Entertainment,2026-11-12,UPI,IMAX ticket and snacks
+6,john_doe,Dental Checkup,1500.00,Healthcare,2026-11-15,Cash,Routine scaling
+7,john_doe,High Speed Broadband,999.00,Bills & Utilities,2026-11-18,Net Banking,Fiber internet bill
+8,alice_smith,College Tuition Fee,18500.00,Education,2026-11-01,Net Banking,Semester fee installment
+9,alice_smith,Hostel Electricity Bill,1450.00,Bills & Utilities,2026-11-04,UPI,Monthly electricity bill
+10,alice_smith,Organic Groceries,2200.00,Food,2026-11-10,Debit Card,Weekly fruits and vegetables
+12,testuser_9065,Cafeteria Lunch,120.00,Food,2026-11-19,Cash,None
+13,testuser_9065,Bus Ticket,50.00,Transportation,2026-11-18,Cash,None

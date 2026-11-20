@@ -1,0 +1,37 @@
+1
+john_doe
+pass123
+1
+Online Python Course
+1299.00
+3
+2026-11-20
+2
+Specialization certificate fee
+2
+6
+7
+1
+8
+10
+2026-11
+11
+1
+12
+14
+1
+admin
+admin123
+1
+2
+3
+4
+alice
+6
+7
+1
+8
+9
+10
+12
+4

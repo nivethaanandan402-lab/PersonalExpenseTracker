@@ -1,0 +1,5 @@
+username,password,role,fullName,createdAt
+testuser_9065,secret123,USER,Test User,2026-11-20
+john_doe,pass123,USER,John Doe,2026-01-10
+alice_smith,pass123,USER,Alice Smith,2026-02-01
+admin,admin123,ADMIN,System Administrator,2026-01-01
